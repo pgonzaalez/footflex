@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Tienda FootFlex</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Bootstrap icons-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="/css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <div th:replace="tienda/navigation"></div>
+
+        <!-- Page Content -->
+        <div class="container">
+            <!-- Page Heading/Breadcrumbs -->
+            <h1 class="mt-4 mb-3">
+                FootFlex <small>Carrito</small>
+            </h1>
+
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a th:href="@{/}">Home</a></li>
+                <li class="breadcrumb-item active">Carrito</li>
+            </ol>
+
+            <!-- Blog Post -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-9">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Producto</th>
+                                        <th scope="col">Cantidad</th>
+                                        <th scope="col">Total</th>
+                                        <th scope="col">Acción</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr th:each="product : ${carritoItems}">
+                                        <td th:text="${product.product_id}"></td>
+                                        <td th:text="${product.quantity}"></td>
+                                        <td th:text="${product.total}"></td>
+                                        <td>
+                                            <!-- Utiliza el ID del producto o algún identificador único -->
+                                            <a th:href="@{'/delete_carrito/' + ${product.id}}" class="btn btn-danger">Quitar</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <h2 class="card-title">SUBTOTAL</h2>
+
+                            <ul class="list-group">
+                                <li class="list-group-item"><h5 th:text="${subtotal}"></h5></li>
+                                <!--<a th:href="@{/order}" class="btn btn-dark">Ver Orden</a>-->
+                            </ul>
+
+                            <!-- Botón de Compra -->
+                            <button type="button" class="btn btn-success mt-3">Comprar</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+
+        <!-- Footer-->
+        <div th:replace="tienda/footer"></div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="scripts.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abb0b8ef-f907-40e0-9185-65ed41ee605c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hugo" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;gonzalez.miranda.pol&quot;,
+      &quot;fullname&quot;: &quot;Pol González Miranda&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/projecte2_springboot/ecommerce_springboot.git&quot;,
+    &quot;second&quot;: &quot;ff271bb3-74df-4388-a426-7ace4ae6579a&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aXXXziKOJPGsenbDKpBfDXlPxP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.footflex_version_inicial.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/iamno/Desktop/footflex",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="footflex_version_inicial" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="footflex_version_inicial" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tienda.footflex_version_inicial.footflex_version_inicial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abb0b8ef-f907-40e0-9185-65ed41ee605c" name="Changes" comment="" />
+      <created>1704465947153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704465947153</updated>
+      <workItem from="1704465950664" duration="614000" />
+      <workItem from="1704470983537" duration="661000" />
+      <workItem from="1704473703151" duration="638000" />
+      <workItem from="1704474364399" duration="13000" />
+      <workItem from="1704474502315" duration="1052000" />
+      <workItem from="1704476874578" duration="1316000" />
+      <workItem from="1704478235238" duration="2197000" />
+      <workItem from="1704480557945" duration="24000" />
+      <workItem from="1704631757398" duration="1330000" />
+      <workItem from="1704639773412" duration="3406000" />
+      <workItem from="1704643490702" duration="4037000" />
+      <workItem from="1704730412133" duration="167000" />
+      <workItem from="1704730696420" duration="6007000" />
+      <workItem from="1704822941210" duration="61000" />
+      <workItem from="1704823017478" duration="3776000" />
+      <workItem from="1704828946816" duration="3256000" />
+      <workItem from="1704836245106" duration="522000" />
+      <workItem from="1704892856026" duration="1354000" />
+      <workItem from="1704894245361" duration="1891000" />
+      <workItem from="1704897274861" duration="656000" />
+      <workItem from="1704900743079" duration="3221000" />
+      <workItem from="1704904001432" duration="78000" />
+      <workItem from="1704905613153" duration="161000" />
+      <workItem from="1704906086019" duration="89000" />
+      <workItem from="1704906311075" duration="242000" />
+      <workItem from="1728312489520" duration="236000" />
+      <workItem from="1728410138950" duration="73000" />
+      <workItem from="1730821786831" duration="4000" />
+      <workItem from="1732114233810" duration="352000" />
+      <workItem from="1733948150338" duration="422000" />
+      <workItem from="1734804436899" duration="49000" />
+      <workItem from="1734804544934" duration="26000" />
+      <workItem from="1734804643943" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
